@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable anahi
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id anahibutton
+id buttonWebsite
+id condebutton
+id editTextText
+id editTextText2
+id editTextText3
+id editTextText4
+id editTextText5
+id editTextText6
+id textViewContactInfo
+id textViewEducation
+id textViewObj
+id textViewSkills
+id webView
+layout activity_cv1
+layout activity_cv2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string José_Eduardo_Conde_Hernández
+string app_name
+style Base.Theme.Cv
+style Theme.Cv
+xml backup_rules
+xml data_extraction_rules

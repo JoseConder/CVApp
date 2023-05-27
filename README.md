@@ -35,6 +35,8 @@ La aplicacion iniciara con un menu que cuenta con boton que representan a los in
 La Actividad correspondiente a cada integrante cuenta con un ScrollView para poder desplazarse verticalmente, al final de la informacion se cuenta con un boton que nos redirigira a la pagina de internet del Github del integrante (Esto abre un navegador web).
 Para volver al menu principal se pueden usar los control predeterminados para dispositivos android, en el caso de el emulador se puede hacer a traves de la tecla Esc en Windows.
 
+Se puede consultar un video agregado en este repositorio para observar como es la funcionalidad de la APP llamado videoApp
+
 ## Construido con 
 
     Android Studio
